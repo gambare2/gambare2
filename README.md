@@ -54,6 +54,7 @@ _I have created this project so that i can use the register file in every other 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prince-aryan-singh-857771257/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://github.com/gambare2)
+[![INstagram](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=instagram)](https://www.instagram.com/thakur_aryan864/)
 
 ---
 
