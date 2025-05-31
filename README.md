@@ -2,7 +2,10 @@
 
 # 👉 I'm Prince Aryan Singh / gambare2
 
-🚀 **Full Stack Developer** from Agra, India  
+---
+
+🚀 **Full Stack Developer** 
+📍 Location: Agra, India  
 📧 Reach me at: [sprincearyan384@gmail.com](mailto:sprincearyan384@gmail.com)
 📞 Phone: +91-6207535637
 
