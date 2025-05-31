@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm Prince Aryan Singh / gambare2
+# 👉 I'm Prince Aryan Singh / gambare2
 
 🚀 **Full Stack Developer** from Agra, India  
 📧 Reach me at: [sprincearyan384@gmail.com](mailto:sprincearyan384@gmail.com)
