@@ -4,6 +4,7 @@
 
 🚀 **Full Stack Developer** from Agra, India  
 📧 Reach me at: [sprincearyan384@gmail.com](mailto:sprincearyan384@gmail.com)
+📞 Phone: +91-6207535637
 
 ---
 ### 💻 An enthusiastic MERN Stack developer
