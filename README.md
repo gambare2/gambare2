@@ -51,5 +51,5 @@ _I have created this project so that i can use the register file in every other 
 
 ---
 
-⭐️ _Thanks for visiting!_
+⭐️ _Thanks for visiting!_ ⭐️
 
