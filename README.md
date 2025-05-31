@@ -6,7 +6,7 @@
 📧 Reach me at: [sprincearyan384@gmail.com](mailto:sprincearyan384@gmail.com)
 
 ---
-##**A enthuastic MERN Stack**
+###**A enthuastic MERN Stack**
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="400"/>
 </p>
