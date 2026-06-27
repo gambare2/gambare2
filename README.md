@@ -39,8 +39,7 @@ _I have created this project so that i can use the register file in every other 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gambare2&show_icons=true&theme=github_dark" alt="gambare2's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gambare2&layout=compact&theme=github_dark" alt="Top Languages" height="165">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gambare2&theme=github-dark&hide_border=true&area=true" width="100%">
 </p>
 
 ---
